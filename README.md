@@ -1,1 +1,3 @@
-# royaltydigital.gitbub.io
+# royaltydigital.github.io
+
+- https://royalty-digital.com
